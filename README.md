@@ -1,5 +1,8 @@
 # Inkwell
 
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/YassineLabsDev/inkwell?utm_source=oss&utm_medium=github&utm_campaign=YassineLabsDev%2Finkwell&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
+
 A menu-driven Windows batch tool for managing Etsy digital product workflows — create, track, check, and package.
 
 ## Features
